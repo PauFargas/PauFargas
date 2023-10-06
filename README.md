@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello there! Soy Pau Fargas👋
 
-<!--
-**PauFargas/PauFargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Soy estudiante de 4Geeks Academy cursando el programa de Full-Stack.
+---------------
 
-Here are some ideas to get you started:
+Aunque estudié Publicidad y me especializé en Redacción Creativa y Motion Graphics, decidí dar una vuelta a mi vida laboral al descubrir que me apasionaba ✨p r o g r a m a r✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente aprendiendo sobre Front-End.  
+Apasionado del 3D, sobretodo con Blender.
+
+He trabajado en: 
+- WeIncontro
+- VMLY&R
+- Buzz Marketing Networks
+- Innuo
+- OSIC (Oficina de Suport a la Iniciativa Cultural)
+
+
+📨 Podéis contactar conmigo en: paufargasroca@gmail.com  
+📒 Podéis ver mi portfolio Publicitario en: https://paufargasroca.myportfolio.com/  
+
+
+
+
+
+
+
+
