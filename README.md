@@ -17,7 +17,11 @@ He trabajado en:
 
 
 📨 Podéis contactar conmigo en: paufargasroca@gmail.com  
-📒 Podéis ver mi portfolio Publicitario en: https://paufargasroca.myportfolio.com/  
+📒 Podéis ver mi portfolio Publicitario en: https://paufargasroca.myportfolio.com/
+
+:mag_right: Mi linkedIn: www.linkedin.com/in/pau-fargas-roca
+
+
 
 
 
