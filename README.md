@@ -1,6 +1,5 @@
 # Hello there! Soy Pau Fargas👋
 
-#### Soy estudiante de 4Geeks Academy cursando el programa de Full-Stack.
 ---------------
 
 Aunque estudié Publicidad y me especializé en Redacción Creativa y Motion Graphics, decidí dar una vuelta a mi vida laboral al descubrir que me apasionaba ✨p r o g r a m a r✨
@@ -17,7 +16,7 @@ He trabajado en:
 
 
 📨 Podéis contactar conmigo en: paufargasroca@gmail.com  
-📒 Podéis ver mi portfolio Publicitario en: https://paufargasroca.myportfolio.com/
+📒 Podéis ver mi portfolio Publicitario en: https://paufargasroca.myportfolio.com/ o bien www.instagram.com/pauinmotion
 
 :mag_right: Mi linkedIn: www.linkedin.com/in/pau-fargas-roca
 
